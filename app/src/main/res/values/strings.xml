@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Interview Questions</string>
+    <string name="action_settings">Settings</string>
+
+        <string name="title_activity_add_object">AddObjectActivity</string>
+        <string name="add">ADD</string>
+    <string name="term"></string>
+    <string name="termDefinition"></string>
+    <string name="no_items_to_display">no_items_to_display</string>
+</resources>
+
+
